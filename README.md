@@ -47,11 +47,3 @@ The application requires a CSV file containing the email addresses of the recipi
 email
 example1@example.com
 example2@example.com
-
-
-
-
-
-
-
-
