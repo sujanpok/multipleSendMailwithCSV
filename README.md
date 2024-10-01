@@ -37,15 +37,16 @@ MailSenderAppは、ユーザーが使いやすいグラフィカルインター�
 
 The application requires a CSV file containing the email addresses of the recipients. The file should have the following format:
 
-```csv
+``csv
 email
 example1@example.com
 example2@example.com
 
 
 重要な注意事項
-Gmailアカウントの設定: メールを送信するには、GmailアカウントとGoogleアプリパスワードが必要です。
-アプリパスワードの生成: Googleアカウントのセキュリティ設定でアプリパスワードを生成してください。詳細はこちらを参照してください。
+送信に使用するメールアドレスは、Googleの「アプリパスワード」を使用する必要があります。通常のGoogleアカウントのパスワードは使用できません。
+「アプリパスワード」を取得するには、Googleのアカウント設定にアクセスし、2段階認証プロセスを有効にした後、「アプリパスワード」を生成してください。
+
 ロギング
 アプリケーションは、メール送信プロセスを email_log.txt というファイルに記録します。このファイルには送信されたメールの詳細とエラーメッセージが含まれます。
 
