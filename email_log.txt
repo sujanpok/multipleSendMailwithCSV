@@ -1,0 +1,7 @@
+2024-09-30 22:50:47,095 - INFO - Sender email credentials saved successfully.
+2024-09-30 22:59:13,423 - INFO - Sender email credentials saved successfully.
+2024-09-30 22:59:32,382 - INFO - Added individual email: pokharelisujan@gmail.com
+2024-09-30 22:59:40,596 - INFO - Email sent to pokharelisujan@gmail.com
+2024-09-30 23:03:30,059 - INFO - Loaded recipients file: C:/Users/pokha/Desktop/mailSenderApp/email.csv
+2024-09-30 23:03:38,072 - INFO - Email sent to misaxiansheng@gmail.com
+2024-09-30 23:03:39,463 - INFO - Email sent to misaxiansheng@gmail.com
